@@ -1,0 +1,27 @@
+Project Approval;hcg;pro;0.96
+Regulatory Approval;loc;pro;0.96
+Investment;ent;pro;0.76
+Workforce;loc;pro;0.11
+Technology;ent;pro;0.18
+Logistical Support;hcc;pro;0.11
+Product Subsystems;sup;pro;0.18
+Future Project Approval;hcg;ent;0.32
+Investment;inv;ent;0.10
+Sales Revenue;con;ent;0.32
+Technology Requirements;pro;ent;0.18
+High-grade Goods;pro;ent;0.54
+Low-grade Goods;pro;ent;0.31
+Revenue Sharing;pro;hcc;0.54
+Technology Transfer;pro;hcc;0.44
+Economic Support;hcg;hcc;0.56
+Political Influence;hcc;hcg;0.10
+Project Lobbying;loc;hcg;0.10
+Taxes;pro;hcg;0.32
+Policy Support;ngo;loc;0.18
+Federal Support;hcg;loc;0.96
+Employment;pro;loc;0.54
+Environmental Compliance;pro;loc;0.44
+ROI;ent;inv;0.54
+Product;ent;con;0.18
+Contracts;pro;sup;0.18
+Environmental Impact Plan;pro;ngo;0.18
